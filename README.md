@@ -7,9 +7,9 @@ This is a basic script in python to send email reports as an automated task.
 Replace "your_email@email.com", "recipient_email@example.com", and "your_email_password" with your Gmail email, recipient email, and Gmail password.
 
 ## Required Libraries
---
-  pip install schedule
---
+
+  **pip install schedule**
+
 
 
 ## The script will run indefinitely, checking for scheduled tasks every second. 
