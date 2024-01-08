@@ -12,5 +12,4 @@ Replace "your_email@email.com", "recipient_email@example.com", and "your_email_p
 
 
 
-## The script will run indefinitely, checking for scheduled tasks every second. 
-It will send the daily email report at the specified time. Remember to keep your email and password secure. Avoid hardcoding sensitive information directly in your script, especially if you plan to share or publish the code. Consider using environment variables or configuration files for better security practices.
+## The script will run indefinitely, checking for scheduled tasks every second. It will send the daily email report at the specified time. Remember to keep your email and password secure.
